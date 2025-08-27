@@ -1,4 +1,4 @@
-#AI-Powered Text Generation/Summarizer made with FAST API
+# AI-Powered Text Generation/Summarizer made with FAST API
 
 FastAPI backend that provides two basic AI features:
 

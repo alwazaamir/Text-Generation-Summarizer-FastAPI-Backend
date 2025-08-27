@@ -7,6 +7,8 @@ application is intentionally thin; all business logic lives in service
 classes under the ``app.services`` package.
 """
 
+import utils.transport
+import utils.session
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
